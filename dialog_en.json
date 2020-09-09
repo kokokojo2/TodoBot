@@ -1,0 +1,19 @@
+﻿{
+  "group":"This bot doens`t work in group chats.",
+  "started": "Hi, thanks for choosing me. I`ll help you to organize and structure your time using TODO lists. Use the keyboard to begin.",
+  "already started": "You have been already registered in the system. Use the keyboard to begin.",
+  "language hint": "Вибери мову:\nВыбери язык:\nChoose the language:\n",
+  "lang switch": ["SWITCH THE LANGUAGE", "Choose the language.", "Great, now I speak English!", "Oops, it seems like some error has occurred. Try again."],
+  "main menu": ["CREATE NEW TODO LIST","DELETE TODO LIST","MY LISTS", "SWITCH THE LANGUAGE"],
+  "todo creation": ["Great! Todo list has been successfully created.", "Oops, it seems like the name is to long or you`ve used \"_\". Try again.","Please, enter name of the list in order to distinguish it from others. Don`t use \"_\" in the name.", "It seems like the list with this name already exists. Try to make up something more original.", "Open list"],
+  "get lists": ["You don`t have any TODO lists. Click \"CREATE NEW TODO LIST\" on the keyboard to create one.", "Choose the list:", "Oops, it seems like nothing is here yet.\nUser keyboard to add a task."],
+  "add task": ["➕Add task➕", "Enter your task:", "Wow, your task is too long. Try again..", "The list already has a task like that. Try again.", "Oops, your date doesn`t look good. Try again.", "Enter a deadline for this task in the following format: _day.month.year_ \nFor example, 22.10.2020", "Choose the priority for this task.", "Saving...", "The priority is incorrect. Try again.", "Success, the task was added to a list.", "Show list", "Great, deadline was updated."],
+  "buttons": ["Mark as done", "Set new deadline", "Delete task"],
+  "markdone": ["Choose task:", "<<Back<<", "Task was marked as completed.", "Task was deleted."],
+  "delete list": ["Choose the list:", "The list was deleted."],
+  "list not exist": "It seems like this list doesn`t exist."
+
+
+
+
+}
